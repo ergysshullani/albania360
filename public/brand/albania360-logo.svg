@@ -1,0 +1,40 @@
+<svg width="420" height="136" viewBox="0 0 420 136" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Albania360</title>
+  <desc id="desc">Logo Albania360 nero, oro e rosso con monogramma A360 e bussola.</desc>
+  <rect width="420" height="136" rx="22" fill="#0B0B0B"/>
+  <path d="M74 32C55 42 39 59 30 80C49 70 65 55 74 32Z" fill="#151515"/>
+  <path d="M346 32C365 42 381 59 390 80C371 70 355 55 346 32Z" fill="#151515"/>
+  <path d="M107 78C136 67 162 39 181 18C186 54 198 78 218 92C194 91 178 76 166 44C149 63 128 77 107 78Z" fill="url(#goldBrush)"/>
+  <path d="M92 92C137 84 177 48 205 34C237 19 291 25 318 57C340 84 330 117 294 120C255 123 221 101 219 76C217 51 246 39 271 49C291 57 298 74 291 91" stroke="url(#goldStroke)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M94 99C136 89 167 66 203 39" stroke="#C9A45C" stroke-width="2" stroke-linecap="round" opacity="0.8"/>
+  <circle cx="285" cy="78" r="15" fill="#0B0B0B" stroke="#C9A45C" stroke-width="5"/>
+  <path d="M292 67L325 43L301 76L292 67Z" fill="#C8102E"/>
+  <path d="M278 91L251 113L270 82L278 91Z" fill="#C9A45C"/>
+  <text x="210" y="104" text-anchor="middle" fill="#D6B16A" font-family="Georgia, 'Times New Roman', serif" font-size="27" letter-spacing="14" font-weight="500">ALBANIA</text>
+  <text x="330" y="104" text-anchor="middle" fill="#C8102E" font-family="Georgia, 'Times New Roman', serif" font-size="27" letter-spacing="8" font-weight="500">360</text>
+  <path d="M108 117H190" stroke="url(#lineLeft)" stroke-width="2" stroke-linecap="round"/>
+  <path d="M230 117H312" stroke="url(#lineRight)" stroke-width="2" stroke-linecap="round"/>
+  <path d="M210 111L216 117L210 123L204 117L210 111Z" fill="#C9A45C"/>
+  <text x="210" y="131" text-anchor="middle" fill="#E8D7B0" font-family="Inter, Arial, sans-serif" font-size="10" letter-spacing="8">SCOPRI · VIVI · RICORDA</text>
+  <defs>
+    <linearGradient id="goldBrush" x1="107" y1="18" x2="218" y2="92" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F5D58D"/>
+      <stop offset="0.45" stop-color="#C9A45C"/>
+      <stop offset="1" stop-color="#8D5B23"/>
+    </linearGradient>
+    <linearGradient id="goldStroke" x1="92" y1="34" x2="331" y2="120" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7E4F1E"/>
+      <stop offset="0.23" stop-color="#F5D58D"/>
+      <stop offset="0.58" stop-color="#C9A45C"/>
+      <stop offset="1" stop-color="#8D5B23"/>
+    </linearGradient>
+    <linearGradient id="lineLeft" x1="108" y1="117" x2="190" y2="117" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3A2412"/>
+      <stop offset="1" stop-color="#C9A45C"/>
+    </linearGradient>
+    <linearGradient id="lineRight" x1="230" y1="117" x2="312" y2="117" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C9A45C"/>
+      <stop offset="1" stop-color="#C8102E"/>
+    </linearGradient>
+  </defs>
+</svg>
